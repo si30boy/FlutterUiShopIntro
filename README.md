@@ -7,5 +7,6 @@ This project is designed to demonstrate elegant Flutter widgets, smooth animatio
 
 ## 📱 Screenshots
 
-*(You can add images here later using Markdown syntax like below)*
+![Home Screen](screenshots/screenshot1.png)
+
 
